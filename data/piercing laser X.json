@@ -1,0 +1,25 @@
+{
+    "id": 143374026,
+    "name": "Piercing Lazer X",
+    "author": "Carter Traywick",
+    "creators": [],
+    "verifier": "Carter Traywick", 
+    "verification": "https://youtu.be/CC635qWoD4E?si=-fPdorc1_4GNI1-j",
+    "percentToQualify": 100,
+    "password": "Ludwig/CBF",
+    "records": [
+                                {
+        "user": "AP-Marsfr",
+        "link": "https://www.youtube.com/watch?v=KGpCJGg6lnU",
+        "hz": "CBF",
+        "percent": 100
+        },
+                                        {
+        "user": "Squeeg",
+        "link": "https://youtube.com/shorts/Q9jXKovA4J4",
+        "hz": "CBF",
+        "percent": 100
+        }
+    ]
+}
+

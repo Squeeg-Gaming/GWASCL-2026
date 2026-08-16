@@ -1,0 +1,18 @@
+{
+    "id": 125518370,
+    "name": "africa sits",
+    "author": "blightedcoconut",
+    "creators": [],
+    "verifier": "loooookkk",
+    "verification": "https://youtu.be/k4mpa0NdII0?si=kjDdSJq1I5LYo0T7",
+    "percentToQualify": "100",
+    "password": "Alternating/64FPS",
+    "records": [
+      {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=g6MIlpw-Io0",
+            "percent": 100,
+            "hz": "64"
+      }
+    ]
+}

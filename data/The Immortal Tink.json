@@ -1,0 +1,19 @@
+{
+    "id": 141889654,
+    "name": "The Immortal Tink",
+    "author": "AP-Marsfr",
+    "creators": ["AP-Marsfr"],
+    "verifier": "Squeeg",
+    "verification": "https://youtu.be/KwsZK4YTn3k",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "records": [
+    
+            {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+            }
+    ]
+}

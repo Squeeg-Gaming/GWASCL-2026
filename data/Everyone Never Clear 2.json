@@ -1,0 +1,18 @@
+{
+    "id": 143504030,
+    "name": "Everyone Never Clear 2",
+    "author": "Squeeg",
+    "creators": [],
+    "verifier": "Carter Traywick", 
+    "verification": "https://www.youtube.com/watch?v=hJaniKBlXHQ",
+    "percentToQualify": 100,
+    "password": "Ludwig/CBF",
+    "records": [
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/shorts/U-nGEwRT6uc",
+        "hz": "CBF",
+        "percent": 100
+        }
+    ]
+}

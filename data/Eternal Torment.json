@@ -1,0 +1,18 @@
+{
+    "id": 143080771,
+    "name": "Eternal Torment",
+    "author": "Squeeg",
+    "creators": [],
+    "verifier": "AstroGuy", 
+    "verification": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+    "percentToQualify": 100,
+    "password": "Rake/CBF/No RT",
+    "records": [
+            {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=KwsZK4YTn3k",
+            "hz": 240,
+            "percent": 100
+            }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 136177030,
+    "name": "CHARLIE MURDER",
+    "author": "JustAnUnknown",
+    "creators": [],
+    "verifier": "JustAnUnknown",
+    "verification": "https://youtu.be/XxgSYJ7pfgs",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/93FPS",
+    "records": [
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/watch?v=QN4I6fjadMc",
+        "hz": 93,
+        "percent": 100
+          },
+        {
+        "user": "shafikdabest",
+        "link": "https://discord.com/channels/1420111313220403444/1420111314847666280/1507874429667905768",
+        "hz": "93",
+        "percent": 100
+        }
+    ]
+}

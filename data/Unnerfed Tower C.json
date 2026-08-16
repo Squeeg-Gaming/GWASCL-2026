@@ -1,0 +1,26 @@
+{
+    "id": 143227836,
+    "name": "Unnerfed Tower C",
+    "author": "Squeeg",
+    "creators": [],
+    "verifier": "Squeeg",
+    "verification": "https://youtu.be/KwsZK4YTn3k",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "description": "Canela couldn't even beat this...are you not entertained?",
+    "records": [
+    {    
+            "user": "Radiant",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "22",
+            "percent": 100
+    },
+            {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+            
+    }
+    ]
+}

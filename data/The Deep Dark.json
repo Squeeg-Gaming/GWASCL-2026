@@ -1,0 +1,20 @@
+{
+    "id": 115562797,
+    "name": "The Deep Dark",
+    "author": "SomeDudeV3",
+    "creators": ["SomeDudeV3"],
+    "verifier": "SomeDudeV3",
+    "verification": "https://www.youtube.com/watch?v=63uu09unMds",
+    "percentToQualify": 85,
+    "password": "Rake/CBF",
+    "description": "Sorry Je, it was fun while it lasted I guess. -SomeDudeV3",
+    "records": [
+                        {
+            "user": "Canela",
+            "link": "https://www.youtube.com/shorts/g6MIlpw-Io0",
+            "hz": 240,
+            "percent": 100
+       
+        }
+    ]
+}
