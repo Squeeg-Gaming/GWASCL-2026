@@ -3,8 +3,8 @@
     "name": "xaviersobased",
     "author": "aelzfr",
     "creators": [],
-    "verifier": "justanunknown",
-    "verification": "https://www.youtube.com/watch?v=TPoNPcxBtiI",
+    "verifier": "AstroGuy",
+    "verification": "https://youtu.be/8S9Vfu0ioFA",
     "percentToQualify": "100",
     "password": "Altjitter/Ludwig/93FPS",
     "records": [
@@ -16,6 +16,12 @@
         },
         {
         "user": "shafikdabest",
+        "link": "https://discord.com/channels/1420111313220403444/1420111314847666280/1507874429667905768",
+        "hz": "CBF",
+        "percent": 100
+         },
+        {
+        "user": "justanunknown",
         "link": "https://discord.com/channels/1420111313220403444/1420111314847666280/1507874429667905768",
         "hz": "CBF",
         "percent": 100
