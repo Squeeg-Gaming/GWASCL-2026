@@ -3,16 +3,31 @@
         "role": "owner",
         "name": "Squeeg",
         "link": "https://www.youtube.com/channel/UCCkIsVA7hh8epa3Tf4xT9GA"
+     },
+    {
+        "role": "owner",
+        "name": "AstroGuy",
+        "link": "https://www.youtube.com/@astroguy.png4"
     },
     {
         "role": "owner",
         "name": "Delgado_Yeet_404",
         "link": "https://www.youtube.com/@Gangsterdino716"
+      },
+    {
+        "role": "owner",
+        "name": "KING_MAST3R2O1O",
+        "link": "https://spamchallengelist.com/"
+      },
+    {
+        "role": "owner",
+        "name": "Carter Traywick",
+        "link": "https://spamchallengelist.com/"
     },
     {
         "role": "owner",
         "name": "Radiant",
-        "link": "https://www.youtube.com/@Gangsterdino716"
+        "link": "https://spamchallengelist.com/"
     },
     {
         "role": "owner",
@@ -23,11 +38,7 @@
         "role": "owner",
         "name": "BLJ_Broken",
         "link": "https://www.youtube.com/@BLJBroken/"
-    },
-    {
-        "role": "owner",
-        "name": "AstroGuy",
-        "link": "https://www.youtube.com/@astroguy.png4"
+   
      },
     {
         "role": "admin",
