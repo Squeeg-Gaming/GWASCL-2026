@@ -3,18 +3,11 @@
     "name": "The Final Tink",
     "author": "AP-Marsfr",
     "creators": ["Squeeg"],
-    "verifier": "Squeeg",
-    "verification": "https://youtu.be/KwsZK4YTn3k",
+    "verifier": "SHAYPlaz",
+    "verification": "https://www.youtube.com/watch?v=cqjCcAnwqKA&t=39s",
     "percentToQualify": 100,
-    "password": "Rake/CBF/No RT",
+    "password": "Rake/CBF",
     "description": "I realized how buns my mic starts to sound at the end. -AP-Marsfr",
     "records": [
-  
-            {
-            "user": "AstroGuy",
-            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
-            "hz": 240,
-            "percent": 100
-            }
     ]
 }
