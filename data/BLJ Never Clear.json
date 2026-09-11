@@ -6,8 +6,14 @@
     "verifier": "Squeeg",
     "verification": "https://www.youtube.com/watch?v=Y-ou7JZnCaM",
     "percentToQualify": 100,
-    "password": "Rake/CBF/No RT",
+    "password": "Rake/CBF",
     "records": [
+                                                                    {
+   "user": "G1rcy",
+   "link": "https://www.youtube.com/watch?v=0scKDR0n6aU",
+   "hz": 240,
+   "percent": 100
+    },
     {
     "user": "Delgado_Yeet_404",
     "link": "https://youtu.be/fp_YKEHRA4k?si=OJwwyG0tcW5UTou6",
