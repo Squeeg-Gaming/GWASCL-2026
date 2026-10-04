@@ -1,0 +1,12 @@
+{
+    "id": 125122406,
+    "name": "Spam me maybe (30 FPS)",
+    "author": "itzgloosy",
+    "creators": ["itzgloosy"],
+    "verifier": "random",
+    "verification": "https://www.youtube.com/watch?v=hw0CXwwp_bg",
+    "percentToQualify": 100,
+    "password": "Alternating/30FPS",
+    "records": [
+    ]
+}
