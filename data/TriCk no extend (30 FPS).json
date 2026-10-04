@@ -1,0 +1,24 @@
+{
+    "id": 78788239,
+    "name": "TriCk no extend (30 FPS)",
+    "author": "EmpanadR",
+    "creators": ["EmpanadR"],
+    "verifier": "JayGol",
+    "verification": "https://www.youtube.com/watch?v=KOBtFDM2Dcw",
+    "percentToQualify": 100,
+    "password": "Alternating/30FPS",
+    "records": [
+                {
+            "user": "Random",
+            "link": "https://www.youtube.com/watch?v=gTYaC2QpDpA",
+            "percent": 100,
+            "hz": 30
+        },
+                {
+            "user": "SodaVortex",
+            "link": "https://youtu.be/LJ5r-qdF6ds",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}
