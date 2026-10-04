@@ -1,0 +1,18 @@
+{
+    "id": 144795423,
+    "name": "Frisk Easy Clear (30 FPS)",
+    "author": "Sandwich",
+    "creators": ["Sandwich"],
+    "verifier": "Sandwich",
+    "verification": "https://www.youtube.com/watch?v=n1eGlzOf6lw",
+    "percentToQualify": 100,
+    "password": "Alternating/30FPS",
+    "records": [
+                {
+            "user": "Random",
+            "link": "https://youtu.be/eO0QIYEKd3Y?si=wUj_QuMVCSDoAgCt",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}
