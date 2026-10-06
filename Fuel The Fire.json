@@ -2,7 +2,7 @@
     "id": 150050581,
     "name": "Fuel The Fire",
     "author": "Radiant",
-    "creators": [Zod],
+    "creators": "Zod",
     "verifier": "Radiant", 
     "verification": "https://youtu.be/ugZ7RlbQwjQ",
     "percentToQualify": 100,
