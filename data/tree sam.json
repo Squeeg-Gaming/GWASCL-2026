@@ -14,9 +14,15 @@
             "hz": 240,
             "percent": 100
         },
+                                {
+            "user": "Squeeg",
+            "link": "",
+            "hz": 240,
+            "percent": 100
+        },
         {
             "user": "AstroGuy",
-            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "link": "",
             "hz": 240,
             "percent": 100
                              },
@@ -30,6 +36,12 @@
         "user": "ShayPlaz",
         "link": "https://youtu.be/ZGCq7444RgU?si=EnskcLTzCveGnDKc",
             "hz": "CBF",
+            "percent": 100
+        },
+                                {
+            "user": "evnado",
+            "link": "https://youtu.be/DFgGZAFY758?si=wIm9I4YSChy7wDbl",
+            "hz": 240,
             "percent": 100
         }
     ]
