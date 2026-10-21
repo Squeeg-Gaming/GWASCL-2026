@@ -20,7 +20,6 @@
             "percent": 100,
             "hz": 240
         },
-        
         {
             "user": "Cyber<3<3",
             "link": "https://medal.tv/games/geometry-dash/clips/moTDnvk8gRcMbBfZz?invite=cr-MSxCeDUsMjY2OTY3NjY0&v=12",
@@ -68,6 +67,12 @@
             "link": "https://www.youtube.com/@Aquatic-SGD",
             "hz": "240",
             "percent": 100
-                }
+                },
+                                        {
+            "user": "evnado",
+            "link": "https://youtu.be/XyjbwxSV8RQ?si=H6FAkqEaznvP-9Fq",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
