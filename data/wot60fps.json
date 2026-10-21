@@ -13,11 +13,9 @@
             "link": "https://youtu.be/FCaVhxVOZ2c",
             "percent": 100,
             "hz": 240
-        
-        
         },
         {
-            "user": "AngoPR",
+            "user": "Squeeg",
             "link": "https://www.youtube.com/watch?v=AxptNIFKULw&t=1s",
             "hz": 60,
             "percent": 100
@@ -46,6 +44,12 @@
             "hz": 240,
             "percent": 100
 
-        }
+        },
+                                               {
+            "user": "evnado",
+            "link": "https://youtu.be/XyjbwxSV8RQ?si=H6FAkqEaznvP-9Fq",
+            "hz": 240,
+            "percent": 100
+        },
     ]
 }
