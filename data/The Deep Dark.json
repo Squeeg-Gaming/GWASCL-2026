@@ -15,12 +15,23 @@
             "hz": 240,
             "percent": 100
         },
+                                        {
+            "user": "AstroGuy",
+            "link": "",
+            "hz": 240,
+            "percent": 100
+        },
+                                        {
+            "user": "Delgado_Yeet_404",
+            "link": "",
+            "hz": 240,
+            "percent": 100
+        },
                                 {
             "user": "evnado",
             "link": "https://www.youtube.com/watch?v=sObzKY0K5tc",
             "hz": 240,
             "percent": 100
-       
         }
     ]
 }
