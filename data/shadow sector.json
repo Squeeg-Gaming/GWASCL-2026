@@ -6,13 +6,19 @@
     "verifier": "Squeeg",
     "verification": "https://www.youtube.com/watch?v=sRr9MGSRAEA",
     "percentToQualify": "100",
-    "password": "Rake/CBF/No RT",
+    "password": "Rake/CBF",
     "records": [
-                                {
+                                                               {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=3Gn3qWygPVY",
+            "hz": 240,
+            "percent": 100
+        },
+                                               {
             "user": "evnado",
             "link": "https://youtu.be/qiWt6PLMUEI",
-            "percent": 100,
-            "hz": 240
-             }
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
