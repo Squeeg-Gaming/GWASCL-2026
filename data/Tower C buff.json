@@ -19,6 +19,18 @@
             "hz": "CBF",
             "link": "https://youtu.be/W-CHTXzAVQ0",
             "percent": 100
+        },
+                                       {
+            "user": "evnado",
+            "link": "https://youtu.be/XyjbwxSV8RQ?si=H6FAkqEaznvP-9Fq",
+            "hz": 240,
+            "percent": 100
+        },
+                                              {
+            "user": "Squeeg",
+            "link": "https://discord.com/channels/1519388997963743354/1519388999528087604/1531061779738656891",
+            "hz": 240,
+            "percent": 100
         }
          ]
 }
