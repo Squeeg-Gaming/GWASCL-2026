@@ -6,11 +6,23 @@
     "verifier": "Radiant",
     "verification": "https://youtu.be/etKP_rea7lQ?si=2kakcS6q-9FSGRUm",
     "percentToQualify": "100",
-    "password": "Rake/CBF/No RT",
+    "password": "Rake/CBF",
     "records": [
     {
                 "user": "AstroGuy",
             "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
+        },
+                                                               {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=3Gn3qWygPVY",
+            "hz": 240,
+            "percent": 100
+        },
+                                               {
+            "user": "evnado",
+            "link": "https://youtu.be/XyjbwxSV8RQ?si=H6FAkqEaznvP-9Fq",
             "hz": 240,
             "percent": 100
         }
