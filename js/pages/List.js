@@ -103,21 +103,31 @@ export default {
                     	<span class="type-label-lg">I'm feeling lucky</span>
 					</button>
                     <h2>Filter levels:</h2>
-					<form action="#" class="type-label-lg">
-                        <div style="display: flex; align-items: center; gap: 10px;">
-                    	    <select class="btn" v-model="engineSelected" id="method" name="method">
-                        	    <option class="type-label-lg" value="All" selected>Any Method</option>
-                                <option class="type-label-lg" value="Alternating">Alternating</option>
-                                <option class="type-label-lg" value="Jitter">Jitter</option>
-                                <option class="type-label-lg" value='["Altjitter","Alterjitter","Ludwig"]'>Alterjitter/Ludwig</option>
-                                <option class="type-label-lg" value="Rake">Rake</option>
-                                <option class="type-label-lg" value='["G502","G512","K55","K70"]'>Capped Devices</option>
-                                <option class="type-label-lg" value='["Scroll Clicking","Geode Scroll","FlyHec","Lip Spam"]'>Others</option>
-                            </select>
-                    	    <input type="text" class="btn" v-model="fpsSelected" id="fps" name="fps" placeholder="Enter FPS value" autocomplete="off">
-					        <button class="btn" type="button" @click="applyFilters()">Filter!</button>
-                        </div>
-					</form>
+            <form action="#" class="type-label-lg">
+                <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+                    <div style="display: flex; gap: 12px; align-items: center;">
+                       <label style="cursor: pointer;">
+                         <input type="radio" name="method" value="All" v-model="engineSelected" checked> Any Method
+                           </label>
+                       <label style="cursor: pointer;">
+                         <input type="radio" name="method" value="Alternating" v-model="engineSelected"> Alternating
+                           </label>
+                       <label style="cursor: pointer;">
+                         <input type="radio" name="method" value="Jitter" v-model="engineSelected"> Jitter
+                           </label>
+                       <label style="cursor: pointer;">
+                         <input type="radio" name="method" value='["Altjitter","Alterjitter","Ludwig"]' v-model="engineSelected"> Alterjitter/Ludwig
+                           </label>
+                       <label style="cursor: pointer;">
+                         <input type="radio" name="method" value="Rake" v-model="engineSelected"> Rake
+                           </label>
+                       </div>
+ 
+                         <input type="text" class="btn" v-model="fpsSelected" id="FPS" name="FPS" placeholder="Enter FPS" autocomplete="off">
+ 
+                         <button class="btn" type="button" @click="applyFilters()">Filter</button>
+                </div>
+            </form>
                     <a class="nav__icon" href="https://discord.gg/qAaaDRQkJm">
                         <img src="../assets/discord.svg" alt="Discord Logo" />
                     </a>
