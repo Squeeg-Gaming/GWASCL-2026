@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Rake/CBF",
     "records": [
+                                                                                       {
+            "user": "Squeeg",
+            "link": "youtube.com/live/rRlLYRhQJeI",
+            "hz": 240,
+            "percent": 100
+        },
+                                                                                       {
+            "user": "evnado",
+            "link": "https://youtu.be/aFCROKy4E8I",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
