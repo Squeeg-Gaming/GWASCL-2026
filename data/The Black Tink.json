@@ -8,5 +8,17 @@
     "percentToQualify": 90,
     "password": "Altjitter/Ludwig/CBF",
     "records": [
+                                                                                                                               {
+            "user": "Squeeg",
+            "link": "https://youtube.com/live/rRlLYRhQJeI",
+            "hz": 240,
+            "percent": 100
+        },
+                                                                                                                               {
+            "user": "evnado",
+            "link": "https://youtu.be/VwZI2HwLcSQ",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
