@@ -6,7 +6,13 @@
     "verifier": "DRJR",
     "verification": "https://www.youtube.com/watch?v=KGpCJGg6lnU",
     "percentToQualify": "100",
-    "password": "Alternating/CBF",
+    "password": "Rake/CBF",
     "records": [
+                 {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1k8craCGpgs",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
