@@ -37,6 +37,12 @@
             "link": "https://youtube.com/live/qsULRwDB7vU",
             "percent": 100,
             "hz": "240"
-                        }
+                        },
+                                                                                                               {
+            "user": "evnado",
+            "link": "https://youtu.be/T23_9aFCXgw",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
