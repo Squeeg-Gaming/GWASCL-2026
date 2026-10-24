@@ -8,5 +8,11 @@
 "percentToQualify": 100,
 "password": "Alternating/CBF",
 "records": [
+                            {    
+            "user": "CoffeeChips",
+            "link": "https://discord.com/channels/1519388997963743354/1562084045150748702/1562084045150748702",
+            "hz": "240",
+            "percent": 100
+                        }
     ]
 }
