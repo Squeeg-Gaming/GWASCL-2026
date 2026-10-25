@@ -1,0 +1,18 @@
+{
+    "id": 71066036,
+    "name": "BEAK (30 FPS)",
+    "author": "9tn",
+    "creators": ["9tn"],
+    "verifier": "Excessity",
+    "verification": "https://www.youtube.com/watch?v=6qJwonZz6VA",
+    "percentToQualify": 100,
+    "password": "Alternating/30FPS",
+    "records": [
+                {
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=v_J_lymH4KI",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}
