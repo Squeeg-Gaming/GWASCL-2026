@@ -4,9 +4,46 @@
     "author": "rob01",
     "creators": ["rob01"],
     "verifier": "rob01",
-    "verification": "https://www.youtube.com/watch?v=SgA2B1ZkjQk",
+    "verification": "https://www.youtube.com/watch?v=C9xXAMcTbbM",
     "percentToQualify": "100",
     "password": "Alternating/CBF",
+    "description": "Og level from spampurel and also i slightly edited the portals and a spike so its easier - 1055 attempts",
     "records": [
+                                {
+            "user": "ad3usgmd",
+            "hz": "CBF",
+            "link": "https://www.youtube.com/watch?v=7pZUEXVJ9yE",
+            "percent": 100
+        },
+                                                               {
+            "user": "ArturSPAM24",
+            "link": "https://youtube.com/shorts/rNjLaAoYGD0?is=onlDd43HN5AMeyrX",
+            "hz": 240,
+            "percent": 100
+        },
+                                               {
+            "user": "JoeBTD",
+            "link": "https://youtu.be/kFLcs-OvkRM",
+            "hz": 240,
+            "percent": 100
+        },
+                                                       {
+            "user": "CoffeeChips",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1542643425667711086",
+            "hz": 240,
+            "percent": 100
+        },
+                                                               {
+            "user": "helomomy",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1545902565475098764",
+            "hz": 240,
+            "percent": 100
+        },
+                                                                       {
+            "user": "CelesteGD",
+            "link": "https://youtu.be/POyOYwg0UDA",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
