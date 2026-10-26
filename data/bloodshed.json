@@ -1,0 +1,24 @@
+{
+    "id": 113414693,
+    "name": "bloodshed",
+    "author": "balloonboi",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=kQ_X6y_HryA",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "galbeni7",
+            "link": "https://www.youtube.com/watch?v=duB87lYi8wc",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/W_c02CFKjz4",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}
