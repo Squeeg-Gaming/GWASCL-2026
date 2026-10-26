@@ -1,0 +1,30 @@
+{
+    "id": 133397220,
+    "name": "never bare K55",
+    "author": "ClawBuckle",
+    "creators": [],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/C74FCHp-lYc",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=_V8O_JbmPXE",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+            "user": "9tn",
+            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+            "hz": "300",
+            "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492918176168546314",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
