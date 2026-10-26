@@ -1,0 +1,48 @@
+{
+    "id": 67278115,
+    "name": "AfK K55",
+    "author": "tapdot33",
+    "creators": [],
+    "verifier": "ClawBuckle",
+    "verification": "https://www.youtube.com/watch?v=YfK_h4WUHtY",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=KxBda-UpqEo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1485412201995960423",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+            "user": "9tn",
+            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+            "hz": "300",
+            "percent": 100
+        },
+        {
+        "user": "Thepaekboy",
+        "link": "https://www.youtube.com/watch?v=bN0URzBZTq0",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=ZlMTaG06bUY",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1493002459470364904",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
