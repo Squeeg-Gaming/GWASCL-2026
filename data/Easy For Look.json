@@ -9,5 +9,11 @@
     "password": "Alternating/60FPS",
     "description": "loooookkk will probably verify!!!!!!",
     "records": [
+                        {
+        "user": "Randomperson_360",
+        "link": "https://www.youtube.com/watch?v=3WsalySUsyE",
+        "hz": "60",
+        "percent": 100
+        }
     ]
 }
