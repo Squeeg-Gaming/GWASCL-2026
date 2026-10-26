@@ -1,0 +1,30 @@
+{
+    "id": 66589913,
+    "name": "TraP K55",
+    "author": "tapdot33",
+    "creators": [],
+    "verifier": "9tn",
+    "verification": "https://www.youtube.com/watch?v=C_X8qllakQM",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1481044003939160154",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1481441116787179561",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=_V8O_JbmPXE",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
