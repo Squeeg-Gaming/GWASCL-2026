@@ -1,0 +1,48 @@
+{
+    "id": 95849433,
+    "name": "Koseki Bijou Spam K55",
+    "author": "AllOnRed777",
+    "creators": ["GoredBored"],
+    "verifier": "AllOnRed",
+    "verification": "https://youtu.be/kqeKDYEMmmc?si=edTS0A7iSOisrZJ8",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rkWk1TgZXag",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1467588005714723067",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "aelzfr",
+        "link": "https://www.youtube.com/watch?v=4XeHF1k-PDU",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917977329176806",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
