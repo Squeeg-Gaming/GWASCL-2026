@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Alternating/60FPS",
     "records": [
+                                                                                {
+            "user": "KING_MAST3R2O1O",
+            "link": "https://www.youtube.com/watch?v=koXypcJ-XEM",
+            "hz": "60",
+            "percent": 100
+         }
     ]
 }
