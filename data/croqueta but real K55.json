@@ -1,0 +1,41 @@
+{
+    "id": 94115856,
+    "name": "croqueta but real K55",
+    "author": "IsntAdam",
+    "creators": ["IsntAdam", "needless", "vase"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/9K_ffa2mbyk",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1485413013967081663",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "aelzfr",
+        "link": "https://www.youtube.com/watch?v=8R75NKFynSk",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=zhvB4aaso9I",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+            "user": "9tn",
+            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+            "hz": "300",
+            "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492918176168546314",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
