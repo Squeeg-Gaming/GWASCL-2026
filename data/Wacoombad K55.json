@@ -1,0 +1,54 @@
+{
+    "id": 65213834,
+    "name": "Wacoombad K55",
+    "author": "Needless",
+    "creators": [],
+    "verifier": "Needles",
+    "verification": "https://www.youtube.com/watch?v=uKIWdLe39XY",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://youtu.be/l0sE6C_wSHE",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=gb-1dpBP8Rw",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1467501526674182228",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=KxBda-UpqEo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+            "user": "aelzfr",
+            "link": "https://youtube.com/clip/UgkxqPr7vx6GFHpM10RnidUZDCpH1VxkcyE9?si=ZeS9j9AXdNKI943S",
+            "hz": "300",
+            "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917977329176806",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
