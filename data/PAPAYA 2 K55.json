@@ -1,0 +1,48 @@
+{
+    "id": 124701688,
+    "name": "PAPAYA 2 K55",
+    "author": "ttsum",
+    "creators": [],
+    "verifier": "Sum",
+    "verification": "https://youtu.be/9Egdu41_VSo?si=7Uxwmsq-BVTNVGY3&t=4",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=KxBda-UpqEo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "AllOnRed",
+        "link": "https://youtu.be/9Egdu41_VSo?si=7Uxwmsq-BVTNVGY3&t=4",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=gb-1dpBP8Rw",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1481445681750216808",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=KxBda-UpqEo",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
