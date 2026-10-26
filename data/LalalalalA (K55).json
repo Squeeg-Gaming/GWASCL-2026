@@ -1,0 +1,60 @@
+{
+    "id": 76972318,
+    "name": "LalalalalA (K55)",
+    "author": "MeowPau",
+    "creators": ["Diamond"],
+    "verifier": "MeowPau",
+    "verification": "https://www.youtube.com/watch?v=gDDBhtLTx5E",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rkWk1TgZXag",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=9Egdu41_VSo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1467220662807560222",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=HhdqKny9RFk",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "aelzfr",
+        "link": "https://www.youtube.com/watch?v=4XeHF1k-PDU",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "Thepaekboy",
+        "link": "https://www.youtube.com/watch?v=bN0URzBZTq0",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
