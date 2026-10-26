@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Alternating/CBF",
    "records": [
+                                                                       {
+            "user": "randomperson_360",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+         }
    ]
 }
