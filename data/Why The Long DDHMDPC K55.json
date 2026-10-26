@@ -1,0 +1,30 @@
+{
+    "id": 65306280,
+    "name": "Why The Long DDHMDPC K55",
+    "author": "ElEeek",
+    "creators": [],
+    "verifier": "Minusclub",
+    "verification": "https://www.youtube.com/watch?v=j70N7I9VqQAE",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+            "user": "aelzfr",
+            "link": "https://youtube.com/clip/UgkxCbIZWPbxGmbAWr_2_DL8XLKUrBjJ1AYe?si=O-ihYuGsWKuAz0lR",
+            "hz": "300",
+            "percent": 100
+        },
+        {
+            "user": "9tn",
+            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+            "hz": "300",
+            "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917977329176806",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
