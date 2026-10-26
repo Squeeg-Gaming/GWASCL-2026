@@ -1,0 +1,54 @@
+{
+    "id": 124643962,
+    "name": "CROQUETA K55",
+    "author": "9tn",
+    "creators": ["Needless"],
+    "verifier": "Needles",
+    "verification": "https://www.youtube.com/watch?v=DxLke3fG1FM",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=K1fB-faCpXY",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rkWk1TgZXag",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "MeowPau",
+        "link": "https://www.youtube.com/watch?v=SR1ofeEGSuc",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=ZlMTaG06bUY",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1493002459470364904",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
