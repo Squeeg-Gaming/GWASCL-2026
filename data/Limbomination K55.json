@@ -1,0 +1,24 @@
+{
+    "id": 67041839,
+    "name": "Limbomination K55",
+    "author": "Needless",
+    "creators": ["Pla"],
+    "verifier": "Needles",
+    "verification": "https://youtu.be/uME8xhb7BmA?si=VeDAk9XlnemwfKA-",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "minusclub",
+        "link": "https://www.youtube.com/watch?v=UknrRlUPJt0&feature=youtu.be",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+            "user": "9tn",
+            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+            "hz": "300",
+            "percent": 100
+        }
+    ]
+}
