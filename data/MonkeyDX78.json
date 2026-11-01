@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Rake/CBF",
     "records": [
+                        {
+        "user": "Copsstartkissingmyhotmouth",
+        "link": "https://youtube.com/live/myGaX6AuPu8",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
