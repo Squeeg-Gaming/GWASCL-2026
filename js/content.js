@@ -182,11 +182,12 @@ export async function fetchLeaderboard() {
             });
         });
         
-        // Creator
+     // Creator
         for (let index = 0; index < level.creators.length; index++) {      
+            const currentCreator = level.creators[index];
             const creator = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.creators.map(creator => creator.toLowerCase()),
-            ) || level.creators[index];
+                (u) => u.toLowerCase() === currentCreator?.toLowerCase(),
+            ) || currentCreator;
             scoreMap[creator] ??= {
                 verified: [],
                 completed: [],
@@ -280,11 +281,12 @@ export async function fetchCreatorLeaderboard() {
             });
         });
         
-        // Creator
+// Creator
         for (let index = 0; index < level.creators.length; index++) {      
+            const currentCreator = level.creators[index];
             const creator = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.creators.map(creator => creator.toLowerCase()),
-            ) || level.creators[index];
+                (u) => u.toLowerCase() === currentCreator?.toLowerCase(),
+            ) || currentCreator;
             scoreMap[creator] ??= {
                 verified: [],
                 completed: [],
@@ -329,10 +331,11 @@ export async function fetchScratchPFPs() {
             errs.push(err);
             return;
         }
-        for (let index = 0; index < level.creators.length; index++) {      
+for (let index = 0; index < level.creators.length; index++) {      
+            const currentCreator = level.creators[index];
             const creator = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.creators.map(creator => creator.toLowerCase()),
-            ) || level.creators[index];
+                (u) => u.toLowerCase() === currentCreator?.toLowerCase(),
+            ) || currentCreator;
             scoreMap[creator] ??= {
                 verified: [],
                 completed: [],
