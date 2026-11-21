@@ -73,6 +73,41 @@ export async function fetchList() {
   }
 }
 
+export async function fetchPacks() {
+  try {
+    // Update `_packs.json` if your pack index JSON file uses a different name
+    const packsResult = await fetch(`${dir}/_packs.json`);
+    if (!packsResult.ok) {
+      throw new Error(`HTTP ${packsResult.status}`);
+    }
+    const packs = await packsResult.json();
+
+    return await Promise.all(
+      packs.map(async (path, rank) => {
+        try {
+          const packResult = await fetch(`${dir}/packs/${path}.json`);
+          if (!packResult.ok) {
+            throw new Error(`HTTP ${packResult.status}`);
+          }
+          const pack = await packResult.json();
+          return [
+            {
+              ...pack,
+            },
+            null,
+          ];
+        } catch {
+          console.error(`Failed to load pack #${rank + 1} ${path}.`);
+          return [null, path];
+        }
+      }),
+    );
+  } catch {
+    console.error('Failed to load packs.');
+    return null;
+  }
+}
+
 export async function fetchEditors() {
   try {
     const editorsResults = await fetch(`${dir}/_editors.json`);
