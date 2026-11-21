@@ -20,6 +20,12 @@
             "percent": 100,
             "hz": 60
         },
+                                        {
+        "user": "wSellout",
+        "link": "",
+        "hz":60,
+        "percent": 100
+        },
                                                 {
             "user": "randomperson_360",
             "link": "",
