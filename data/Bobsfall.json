@@ -13,6 +13,12 @@
             "link": "",
             "hz": "CBF",
             "percent": 100
-         }
+         },
+                       {
+        "user": "wSellout",
+        "link": "",
+        "hz":240,
+        "percent": 100
+        }
    ]
 }
