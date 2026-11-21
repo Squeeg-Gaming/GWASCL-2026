@@ -8,11 +8,17 @@
     "percentToQualify": 100,
     "password": "Jitter/CBF",
     "records": [
-                                                                                                                                                                                                                      {
+            {
             "user": "evnado",
             "link": "https://medal.tv/games/geometry-dash/clips/nL8C8sPKbCMVkusZI?invite=cr-MSxHSzAsNjIxNjgwNzYy",
             "hz": 240,
             "percent": 100   
-                                                                                                                                                                                                                      }
+            },
+                        {
+        "user": "wSellout",
+        "link": "",
+        "hz":45,
+        "percent": 100
+        }
     ]
 }
