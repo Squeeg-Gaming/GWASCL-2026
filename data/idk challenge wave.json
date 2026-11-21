@@ -1,0 +1,18 @@
+{
+    "id": 114654113,
+    "name": "idk challenge wave",
+    "author": "MeowPau",
+    "creators": ["MeowPau"],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=mNOj-wMHY_I",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "loooookkk",
+        "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+        "hz": "240",
+        "percent": 100
+        }
+    ]
+}
