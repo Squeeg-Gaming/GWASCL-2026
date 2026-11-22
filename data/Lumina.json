@@ -1,0 +1,24 @@
+{
+    "id": 137641478,
+    "name": "Lumina",
+    "author": "Apmars",
+    "creators": [Apmars],
+    "verifier": "evnado",
+    "verification": "https://youtu.be/YaYfPWKP_KU",
+    "percentToQualify": "100",
+    "password": "Rake/CBF",
+    "records": [
+        {
+        "user": "SmellY",
+        "link": "https://medal.tv/games/geometry-dash/clips/nZ8eM9gmm_MdPqxtF?invite=cr-MSxGQkcsNjI2Nzg2OTk5",
+        "hz": "240",
+        "percent": 100
+        },
+        {
+        "user": "CashMonkey78",
+        "link": "https://medal.tv/games/geometry-dash/clips/nYplM5y8mMz3AnWoi?invite=cr-MSxrS0YsMTAyMzE5NDEyNg",
+        "hz": "240",
+        "percent": 100
+        } 
+    ]
+}
