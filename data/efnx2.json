@@ -11,13 +11,13 @@
         {
             "user": "AstroGuy",
             "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
-            "hz": CBF,
+            "hz": "CBF",
             "percent": 100
         {,    
         }
             "user": "Util",
             "link": "https://www.youtube.com/watch?v=KBrXxxvhdCk",
-            "hz": CBF,
+            "hz": "CBF",
             "percent": 100
         }
     ]
