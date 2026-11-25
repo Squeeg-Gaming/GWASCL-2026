@@ -1,0 +1,42 @@
+{
+    "id": 104606133,
+    "name": "tree sam (LIP)",
+    "author": "JeDoesStuff",
+    "creators": ["JeDoesStuff"],
+    "verifier": "Angopr",
+    "verification": "https://youtu.be/DxyOBNxtURw?si=nB67dbtUezotNnRs",
+    "percentToQualify": 100,
+    "password": "Lip Spam/ANY FPS",
+    "records": [
+                                {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/59AYn5EvTh8?si=qu-I-dIv2ouV8_oh",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Dan",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1469107538489507910",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                             {
+            "user": "GdMirror",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1469722496780468376",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                    {
+            "user": "jiayefr",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1479307490972799027",
+            "percent": 100,
+            "hz": 60
+        },
+             {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=IGiL7wE6UU0",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
