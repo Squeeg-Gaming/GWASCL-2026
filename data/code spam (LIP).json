@@ -1,0 +1,18 @@
+{
+    "id": 96038954,
+    "name": "code spam (LIP)",
+    "author": "JeDoesStuff",
+    "creators": ["JeDoesStuff"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/5iW-DiIFQ8A",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                                                                                {
+            "user": "G1rcy",
+            "link": "https://youtu.be/n2R5lMeNDIM?is=prYE6mIj1-pxJfak",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
