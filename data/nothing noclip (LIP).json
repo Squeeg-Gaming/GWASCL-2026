@@ -1,0 +1,18 @@
+{
+    "id": 132362085,
+    "name": "nothing noclip (LIP)",
+    "author": "Xed01",
+    "creators": ["Xed01"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/jpR6rcOAepw",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                                                                                {
+            "user": "G1rcy",
+            "link": "https://youtu.be/n2R5lMeNDIM?is=prYE6mIj1-pxJfak",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
