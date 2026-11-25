@@ -1,0 +1,40 @@
+{
+    "id": 83332579,
+    "name": "25 cps (LIP)",
+    "author": "JaggeddDima",
+    "creators": ["JaggeddDima"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/efChJa3J3Wk",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                        {
+            "user": "Angopr",
+            "link": "https://youtu.be/cwc03gyn5Bs?si=SFI7ImYrn4dt9s_O",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                             {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1474949487196635217",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                                             {
+            "user": "RedBerylGD",
+            "percent": 100,
+            "hz": 60
+        },
+                              {
+            "user": "Dan",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                                                              {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=I6eTgz_GIL4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
