@@ -1,0 +1,18 @@
+{
+    "id": 127171766,
+    "name": "lipSpamListTop1 (LIP)",
+    "author": "angopro77",
+    "creators": ["angopro77"],
+    "verifier": "Angopr",
+    "verification": "https://youtu.be/zCu6h2l1Cbg?si=VfbVwfjxSwkr8bvj",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                                                                                {
+            "user": "G1rcy",
+            "link": "https://youtu.be/n2R5lMeNDIM?is=prYE6mIj1-pxJfak",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
