@@ -1,0 +1,48 @@
+{
+    "id": 66883930,
+    "name": "Agua K55",
+    "author": "ttsum",
+    "creators": [],
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=ukv36pmNv-A",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=NEVDdbtHhyU",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rkWk1TgZXag",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1469805323639460004",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1485093745803264121",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=_V8O_JbmPXE",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
