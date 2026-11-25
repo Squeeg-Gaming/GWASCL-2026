@@ -1,0 +1,42 @@
+{
+    "id": 95207910,
+    "name": "Ubongo Z K55",
+    "author": "AmiaHamburger",
+    "creators": ["pla", "Needles"],
+    "verifier": "Firenox",
+    "verification": "https://www.youtube.com/watch?v=Mb-0opk_kBo",
+    "percentToQualify": "100",
+    "password": "K55/300FPS/66.67FPS/100FPS",
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=NEVDdbtHhyU",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rkWk1TgZXag",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=KxBda-UpqEo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1491931581546369094",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
