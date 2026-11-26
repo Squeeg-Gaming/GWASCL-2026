@@ -1,0 +1,36 @@
+{
+    "id": 132717868,
+    "name": "neon 97 (LIP)",
+    "author": "Xed01",
+    "creators": ["squeeggd, Xed01"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/jpR6rcOAepw",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                                                                       {
+            "user": "Angopr",
+            "link": "https://youtu.be/JLyqq10P-ng?si=FTMT5KZ9puv1qm36",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                                       {
+            "user": "Dan",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1486786363196969023",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                                {
+            "user": "G1rcy",
+            "link": "https://youtu.be/n2R5lMeNDIM?is=prYE6mIj1-pxJfak",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                                       {
+            "user": "Derekooo0🇵🇷",
+            "link": "https://youtu.be/RdcRubXc5Ow?is=MQbzwuJfFDD4CJFN",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
