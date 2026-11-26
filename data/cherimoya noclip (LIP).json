@@ -1,0 +1,18 @@
+{
+    "id": 92360752,
+    "name": "cherimoya noclip (LIP)",
+    "author": "iamaidn",
+    "creators": ["iamaidn"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/lw0iKo7vfaY",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                                                                                       {
+            "user": "Dan",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1486786873324998958",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
