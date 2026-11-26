@@ -8,9 +8,15 @@
     "percentToQualify": 100,
     "password": "Rake/CBF",
     "records": [
-                                                                                                                                                                                                               {
+        {                                                                                                                                                                                                       {
             "user": "evnado",
             "link": "https://youtu.be/tS8Dw7ts4z0",
+            "hz": 240,
+            "percent": 100
+        },
+          {                                                                                                                                                                                                       {
+            "user": "SmellY",
+            "link": "https://medal.tv/games/geometry-dash/clips/o0pFVSKDrwtP8lKJm?invite=cr-MSxQNUMsNjI2Nzg2OTk5",
             "hz": 240,
             "percent": 100
         }
