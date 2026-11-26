@@ -1,0 +1,41 @@
+{
+    "id": 133506860,
+    "name": "Nessus C (LIP)",
+    "author": "cartertraywick",
+    "creators": ["kitsuneroxi, cartertraywick"],
+    "verifier": "Dan",
+    "verification": "https://youtu.be/KX9hrwVCVWE",
+    "percentToQualify": 100,
+    "password": "Lip Spam/CBF",
+    "records": [
+                                        {
+            "user": "Dan",
+            "percent": 100,
+            "hz": 60
+        },
+                                                {
+            "user": "Angopr",
+            "link": "https://youtu.be/cwc03gyn5Bs?si=SFI7ImYrn4dt9s_O",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                                     {
+            "user": "RedBerylGD",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1472391301839323199",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                                                              {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=I6eTgz_GIL4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "aut0plays",
+            "link": "https://youtu.be/ypU09Rp_l6M",
+            "percent": 100,
+            "hz": 0
+         }
+    ]
+}
