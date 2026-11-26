@@ -8,12 +8,17 @@
 "percentToQualify": 100,
 "password": "Rake/CBF",
 "records": [   
-
-              {
-            "user": "Evnado",
-            "link": "https://youtube.com/2VvmkD6I9Co",
-            "hz": 240,
-            "percent": 100
-            }
-         ]
-       }
+{
+"user": "Evnado",
+"link": "https://youtube.com/2VvmkD6I9Co",
+"hz": 240,
+"percent": 100
+},
+{
+"user": "Delgado_Yeet_404",
+"link": "https://youtu.be/IJQpXkPaVo8",
+"hz": 240,
+"percent": 100
+}
+]
+}
