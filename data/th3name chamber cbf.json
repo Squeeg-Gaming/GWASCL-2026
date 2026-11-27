@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Alternating/Altjitter/CBF",
     "records": [
+                                {
+            "user": "AstroGuy",
+            "link": "",
+            "hz": "",
+            "percent": 100
+        }
     ]
 }
