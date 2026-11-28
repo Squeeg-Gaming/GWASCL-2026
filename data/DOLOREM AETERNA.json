@@ -4,9 +4,15 @@
     "author": "Liknod",
     "creators": ["Liknod, itzgloosy"],
     "verifier": "AstroGuy", 
-    "verification": "https://youtu.be/qWQaCWE2Now",
+    "verification": "https://www.youtube.com/watch?v=UeyO-f32z2A",
     "percentToQualify": 100,
-    "password": "Ludwig/Altjitter",
+    "password": "Ludwig/Altjitter/CBF",
     "records": [
+                {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=F0dCIv1IG-U",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
